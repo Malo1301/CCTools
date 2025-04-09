@@ -1,2 +1,2 @@
-# CCLinuxFontFix
-Cookie Clicker mod to fix font issues on Linux.
+# CCTools
+Repo for my tools/mods for Cookie Clicker.
